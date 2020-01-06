@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Hannah Kiesow"
-  avatar           : " /images/bio_photo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/bio_photo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Blog & CV"
   location         : "Aachen, Germany"
   email            : "hannahkiesow@gmail.com"
