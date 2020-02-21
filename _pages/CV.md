@@ -119,7 +119,7 @@ Assisted in clinical therapy sessions and aided blind and vision impaired indivi
 				Assisted in conducting experimental psychological studies
 </p>
 
-<h1>Knowledge & Skills</h2>
+<h2>Knowledge & Skills</h2>
 
 <p>
 English:		Native 
