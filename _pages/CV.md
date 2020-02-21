@@ -21,22 +21,19 @@ University of Pennsylvania, USA
 <b>PhD Student, Computational Neuroscience</b>
 <br>
 Visiting scholar at McGill University, Montreal, Canada (March – August 2020)
-<br>
-<br>
+
 
 <h3> 10/2016 – 11/2018</h3>
 Heinrich Heine University Düsseldorf 
 <br>
 <b>Master of Science, Psychology </b>
-<br>
-<br>
+
 
 <h3> 09/2014 – 04/2016</h3>
 Volkshochschule Köln
 <br>
 German Intensive Language Courses, Levels B1.1-C1.2
-<br>
-<br>
+
 
 <h3> 09/2012 – 08/2014 </h3>
 Joint Degree Program
@@ -48,15 +45,13 @@ University of Eastern Finland, Finland
 Rijksuniversiteit Groningen, the Netherlands
 <br>
 <b>Master of Science, Clinical Linguistics </b>
-<br>
-<br>
+
 
 <h3>08/2007 – 05/2011</h3>
 California State University San Marcos, California, USA
 <br>
 <b>Psychology, Bachelor of Arts</b>
-<br>
-<br>
+
 
 <h3>08/2009 – 07/2010</h3>
 Kansai Gaidai University, Osaka, Japan
@@ -113,7 +108,6 @@ Department of Clinical Psychology
 Proofreading of academic manuscripts in the English language
 
 <h3>05/2017 – 07/2018</h3>
-<br>
 Intern, Heinrich-Heine Universität Düsseldorf
 <br>
 Department of Comparative Psychology
