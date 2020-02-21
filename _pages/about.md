@@ -14,4 +14,4 @@ I am super interested in anything brain-related and learning more about data-dri
 Besides that, most of my life consists of brewing the right cup of coffee, travel, browsing interior design blogs and anything DIY. 
 <br>
 <br>
-If you happen to live in Nordrhein Westfalia, check out NEURD, an organization for undergrad and graduate students in the fields of computational neuroscience, cognitive psychology, and related fields. NEURD is a platform where we can exchange and discuss ideas and projects, provide support for each other and network with other early career scientists. 
+If you happen to live in NRW, check out NEURD, an organization I co-founded with like-minded scientists for undergrad and graduate students in the fields of computational neuroscience, cognitive psychology, and related fields. NEURD is a platform where we can exchange and discuss ideas and projects, provide support and network with other early career scientists. 
