@@ -11,26 +11,29 @@ header:
 
 <p title="Education">
 
+<h3> 03/2020 – 08/2020 </h3>
+McGill University, Montreal, Canada
+<br>
+Visiting scholar 
+
 <h3> 08/2018 – present </h3>
-IRTG 2150 program (http://www.irtg2150.rwth-aachen.de/)
+IRTG 2150 program
 <br>
 RWTH Aachen University, Germany 
 <br>
 University of Pennsylvania, USA             
 <br>
 <b>PhD Student, Computational Neuroscience</b>
-<br>
-Visiting scholar at McGill University, Montreal, Canada (March – August 2020)
 
 
 <h3> 10/2016 – 11/2018</h3>
-Heinrich Heine University Düsseldorf 
+Heinrich Heine University Düsseldorf, Germany 
 <br>
 <b>Master of Science, Psychology </b>
 
 
 <h3> 09/2014 – 04/2016</h3>
-Volkshochschule Köln
+Volkshochschule Cologne, Germany
 <br>
 German Intensive Language Courses, Levels B1.1-C1.2
 
@@ -38,7 +41,7 @@ German Intensive Language Courses, Levels B1.1-C1.2
 <h3> 09/2012 – 08/2014 </h3>
 Joint Degree Program
 <br>
-Universität Potsdam, Germany
+University of Potsdam, Germany
 <br>
 University of Eastern Finland, Finland
 <br>
@@ -50,7 +53,7 @@ Rijksuniversiteit Groningen, the Netherlands
 <h3>08/2007 – 05/2011</h3>
 California State University San Marcos, California, USA
 <br>
-<b>Psychology, Bachelor of Arts</b>
+<b>Bachelor of Arts, Psychology</b>
 
 
 <h3>08/2009 – 07/2010</h3>
@@ -98,7 +101,7 @@ Student Assistant, Heinrich-Heine Universität Düsseldorf
 <br>
 Department of Comparative Psychology 
 <br>
-Aid in conducting psychological experiments 
+Aided in conducting psychological (stress) experiments 
 <br>
 <h3>06/2017 – 01/2020 </h3>
 English Proofreader, Heinrich-Heine Universität Düsseldorf
@@ -132,7 +135,7 @@ Quantified and analyzed language attrition and language acquisition data; Aided 
 <h3>06/2011 – 07/2012</h3>
 Co-Facilitator, From the Inside Out Inc., California
 <br>
-Aided in therapy of at-risk adolescence
+Counseling of at-risk adolescents
 
 <h3>02/2010 – 07/2012</h3>
 Intern, San Diego Center for the Blind, California
@@ -154,5 +157,5 @@ German:	Level C1+ (Test-DaF: 18)
 <br>
 Japanese: 	Very good knowledge
 <br>
-Python, MS Office, R-Studio, SPSS, Adobe Photoshop, Tableau  
+Python, R-Studio, SPSS, Tableau, Adobe Photoshop, git, GitHub, Microsoft Office  
 </p>
