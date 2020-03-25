@@ -14,7 +14,9 @@ header:
 <h3> 03/2020 – 08/2020 </h3>
 McGill University, Montreal, Canada
 <br>
-Visiting scholar 
+University of Pennsylvania, Philadelphia, USA
+<br>
+Visiting research fellow
 
 <h3> 08/2018 – present </h3>
 IRTG 2150 program
@@ -66,7 +68,7 @@ Study abroad year
 
 <h2>Publications</h2>
 <p>
-Kiesow, H., Dunbar, R. I. M., Tobias, K. J. K., Vogeley, K., Schilbach, L., Marquand, A. F., Wiecki, T., & Bzdok, D. (in press). 10,000 Social Brains: Sex Differentiation in Human Brain Anatomy. Science Advances.
+Kiesow, H., Dunbar, R. I. M., Tobias, K. J. K., Vogeley, K., Schilbach, L., Marquand, A. F., Wiecki, T., & Bzdok, D. (2020). 10,000 Social Brains: Sex Differentiation in Human Brain Anatomy. Science Advances.
 </p>
 
 
