@@ -16,7 +16,7 @@ McGill University, Montreal, Canada
 <br>
 University of Pennsylvania, Philadelphia, USA
 <br>
-Visiting research fellow
+<b>Visiting Research Fellow</b>
 
 <h3> 08/2018 – present </h3>
 IRTG 2150 program
