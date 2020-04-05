@@ -159,5 +159,5 @@ German:	Level C1+ (Test-DaF: 18)
 <br>
 Japanese: 	Very good knowledge
 <br>
-Python, R-Studio, SPSS, Tableau, Adobe Photoshop, git, GitHub, Microsoft Office  
+Python, R-Studio, SPSS, Tableau, Adobe Photoshop, git, GitHub, HTML/CSS, Microsoft Office  
 </p>
