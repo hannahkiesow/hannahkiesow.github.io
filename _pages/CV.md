@@ -75,6 +75,9 @@ Kiesow, H., Dunbar, R. I. M., Tobias, K. J. K., Vogeley, K., Schilbach, L., Marq
 <h2>Awards and beyond</h2>
 
 <p>
+<h3> 04/2020 - Online NeurdHack </h3>
+Organized a hackathon for an introductory hands-on workshop for using git/GitHub
+
 <h3> 11/2019 - Diversity Scholarship PyData Eindhoven, Netherlands </h3>
 
 <h3> 10/2019 - Python programming workshop, RWTH Aachen University, Germany</h3>
