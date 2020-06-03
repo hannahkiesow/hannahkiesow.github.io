@@ -70,7 +70,9 @@ Study abroad year
 <p>
 Kiesow, H., Dunbar, R. I. M., Tobias, K. J. K., Vogeley, K., Schilbach, L., Marquand, A. F., Wiecki, T., & Bzdok, D. (2020). 10,000 Social Brains: Sex Differentiation in Human Brain Anatomy. Science Advances.
 </p>
-
+<p>
+Taebi, A., <b>Kiesow, H.</b>, Vogeley, K., Schilbach, L., Bernhardt, B., & Bzdok, D. (2020). Population variability in social brain morphology for social support, household size, and friendship satisfaction. Social Cognitive Affective Neurosciences.
+</p>
 
 <h2>Awards and beyond</h2>
 
